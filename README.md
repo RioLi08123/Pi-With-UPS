@@ -12,7 +12,8 @@ UPS design form samkalel3
 DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis:
 https://www.reddit.com/r/raspberry_pi/comments/nsx3le/diy_stepdown_and_stepup_super_cheap_ups_for/
 
-Equipment:
+9V/12V In 5V OutUPS Equipment:
+    
     2 x 1N5822 Schottky Diodes 
     3 x 3.7  18650 battery
     1 x HX-2S-01
