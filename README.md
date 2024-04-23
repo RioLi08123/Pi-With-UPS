@@ -8,6 +8,11 @@ Original 3D Case design form Bigjeffrey
 Raspberry Pi 4 snap fit case with 30mm Fan:
 https://www.thingiverse.com/thing:3726254
 
+I use this Raspberry Pi 4 3D model to preview 
+
+3D model form OculusQuest:
+https://www.thingiverse.com/thing:4621310
+
 UPS design form samkalel3
 
 DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis:
