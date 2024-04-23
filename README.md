@@ -12,10 +12,10 @@ UPS design form samkalel3
 DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis:
 https://www.reddit.com/r/raspberry_pi/comments/nsx3le/diy_stepdown_and_stepup_super_cheap_ups_for/
 
-1. 2 x 1N5822 Schottky Diodes ( for switching)
-2. 7.4V 2S 18650 battery circuit with BMS ( used 2
-18650 batteries with BMS)
-3. TP5100 4.2v and 8.4v Dual One/Two Battery
-Protection/Charging Board
-4. LM2596 3A Max DC-DC Step Down Buck
-Converter Power Module
+
+2 x 1N5822 Schottky Diodes ( for switching)
+3 x 3.7  18650 battery
+1 x HX-2S-01
+1 x TP5100 Protection/Charging Board
+1 x XL4015 DC-DC Step Down Buck Converter Power Module
+1 x DC 5.5*2.1 power jack female
