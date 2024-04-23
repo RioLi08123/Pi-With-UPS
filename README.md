@@ -13,7 +13,7 @@ I use this Raspberry Pi 4 3D model to preview
 Raspberry Pi 4 3D Model for Case development by OculusQuest:
 https://www.thingiverse.com/thing:4621310
 
-UPS design form samkalel3
+UPS design by Samkalel3
 
 DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis:
 https://www.reddit.com/r/raspberry_pi/comments/nsx3le/diy_stepdown_and_stepup_super_cheap_ups_for/
