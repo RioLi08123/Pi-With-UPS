@@ -3,14 +3,14 @@ Bitfocus Companion on Raspberry Pi 4 with UPS 3D Case
 and 9V/12V In 5V Out UPS design 
 by RioLi
 
-Original 3D Case design form Bigjeffrey
+Original 3D Case design by Bigjeffrey
 
 Raspberry Pi 4 snap fit case with 30mm Fan:
 https://www.thingiverse.com/thing:3726254
 
 I use this Raspberry Pi 4 3D model to preview 
 
-3D model form OculusQuest:
+Raspberry Pi 4 3D Model for Case development by OculusQuest:
 https://www.thingiverse.com/thing:4621310
 
 UPS design form samkalel3
