@@ -1,5 +1,5 @@
 # Companion-Pi
-Bitfocus Companion on Raspberry Pi 4 with UPS 3D Case
+Bitfocus Companion on Raspberry Pi 4 with UPS 3D Case and UPS design 
 by RioLi
 
 Original 3D Case design form Bigjeffrey
