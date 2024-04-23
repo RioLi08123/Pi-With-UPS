@@ -5,3 +5,4 @@ by RioLi
 
 Original 3D Case design by Bigjeffrey
 
+More details in flie [UPS] and [3D Case]
