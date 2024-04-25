@@ -20,7 +20,7 @@ DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis: https://www.reddit.
     1 x TP5100 Protection/Charging Board
     1 x XL4015 DC-DC Step Down Buck Converter Power Module
     1 x DC 5.5*2.1 Power Jack Female
-    1 x 5V to 9V USB Ptep Up DC Power Cable 5.5*2.1
+    1 x 5V to 9V USB Step Up DC Power Cable 5.5*2.1
 
 # 3D Case
 Raspberry Pi 4 snap fit case with 30mm Fan by Bigjeffrey:
