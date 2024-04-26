@@ -31,4 +31,4 @@ I use this Raspberry Pi 4 3D model to preview
 Raspberry Pi 4 3D Model for Case development by OculusQuest:
 https://www.thingiverse.com/thing:4621310
 
-![Image Description](images/IMG_9388.jpg)
+![main](images/IMG_9388.jpg)
