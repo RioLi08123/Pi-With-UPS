@@ -26,7 +26,7 @@ DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis: https://www.reddit.
 Raspberry Pi 4 snap fit case with 30mm Fan by Bigjeffrey:
 https://www.thingiverse.com/thing:3726254
 
-I use this Raspberry Pi 4 3D model to preview 
+I use this Raspberry Pi 4 3D model preview to remix the case
 
 Raspberry Pi 4 3D Model for Case development by OculusQuest:
 https://www.thingiverse.com/thing:4621310
