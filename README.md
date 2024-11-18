@@ -26,7 +26,7 @@ DIY Step-Down and Step-Up super Cheap UPS for Raspberry Pis: https://www.reddit.
 Raspberry Pi 4 snap fit case with 30mm Fan by Bigjeffrey:
 https://www.thingiverse.com/thing:3726254
 
-I use this Raspberry Pi 4 3D model preview to remix the case
+I use this Raspberry Pi 4 3D model preview to remix the case.
 
 Raspberry Pi 4 3D Model for Case development by OculusQuest:
 https://www.thingiverse.com/thing:4621310
@@ -34,8 +34,8 @@ https://www.thingiverse.com/thing:4621310
 ![main](IMG_9388.jpeg)
 
 # Use case
-I install [Bitfocus Companion on Pi](https://github.com/bitfocus/companion) so it is a show control system for broadcast equipment like ATEM and Propresenter and because it have a UPS so my show more stable.
+I install [Bitfocus Companion on Pi](https://github.com/bitfocus/companion) so it is a show control system for broadcast equipment like ATEM and Propresenter and because it have a UPS so my show will more stable.
 
 But i found out i can install Companion on Pc so i just [install Homeassistant](https://www.home-assistant.io/installation/raspberrypi/) on my Pi.
 
-My Homeassistant run on my Proxmox before is was a VM and my Proxmox a not too stable so i just move my Homeassistant to my pi.
+My Homeassistant run on my Proxmox before,is was a VM and my Proxmox a not too stable so i just move my Homeassistant to my pi.
