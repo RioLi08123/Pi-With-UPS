@@ -32,3 +32,10 @@ Raspberry Pi 4 3D Model for Case development by OculusQuest:
 https://www.thingiverse.com/thing:4621310
 
 ![main](IMG_9388.jpeg)
+
+#Use
+I install Bitfocus Companion on Pi so it is a show control system for broadcast equipment like ATEM and Propresenter and because it have a UPS so my show more stable.
+
+But i found out i can install Companion on Pc so i just install Homeassistant on my Pi.
+
+My Homeassistant run on my Proxmox before is was a VM and my Proxmox a not too stable so i just move my Homeassistant to my pi.
