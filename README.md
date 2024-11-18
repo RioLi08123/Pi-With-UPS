@@ -33,7 +33,7 @@ https://www.thingiverse.com/thing:4621310
 
 ![main](IMG_9388.jpeg)
 
-#Use case
+# Use case
 I install Bitfocus Companion on Pi so it is a show control system for broadcast equipment like ATEM and Propresenter and because it have a UPS so my show more stable.
 
 But i found out i can install Companion on Pc so i just install Homeassistant on my Pi.
