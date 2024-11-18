@@ -35,7 +35,7 @@ https://www.thingiverse.com/thing:4621310
 
 # Use case
 I install Bitfocus Companion on Pi so it is a show control system for broadcast equipment like ATEM and Propresenter and because it have a UPS so my show more stable.
-
+https://github.com/bitfocus/companion
 But i found out i can install Companion on Pc so i just install Homeassistant on my Pi.
 https://github.com/home-assistant
 My Homeassistant run on my Proxmox before is was a VM and my Proxmox a not too stable so i just move my Homeassistant to my pi.
